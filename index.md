@@ -2,4 +2,4 @@
 
 Company | Year Started | Location | Current Status | Founders
 ------------ | ------------- | ------------- | ------------ | ------------------
-[Facebook](facebook.com) | 2004 | Harvard | Existing | Mark
+[Facebook](../facebook.md) | 2004 | Harvard | Existing | Mark
